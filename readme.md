@@ -3,7 +3,7 @@
 # Hi there, I am Shreya Bhatt
 
 ```
-I'm  a 2nd year student pursuing B.Tech in IT. I'm interested in UI designing and am currently learning.
+I'm  a 2nd year student pursuing B.Tech in IT. I'm interested in UI designing and am exploring various softwares.
 ```
 
 ## Currently Learning
